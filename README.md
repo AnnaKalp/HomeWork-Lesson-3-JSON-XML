@@ -1,4 +1,5 @@
 ## HomeWork-Lesson-3-JSON-XML
+
 ### Задача №1: проверить XML на Well formed:
 
 <req>
@@ -20,7 +21,7 @@
 Ответ: Well formed(правильно)
 
 
-**Задача №2:** проверить JSON на Well formed:
+### Задача №2: проверить JSON на Well formed:
 
 ```json
 {
